@@ -20,7 +20,7 @@ Certifique-se de ter o Node.js e o npm instalados em seu sistema. Você pode bai
 1. Clone este repositório para o seu ambiente local.
 
    ```bash
-   git clone https://github.com/seu-usuario/sua-aplicacao.git
+   git clone https://github.com/Joel-Santos/FullSatck---NodeMYSQL.git
    ```
 
 2. Navegue até o diretório do projeto.
